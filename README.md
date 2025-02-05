@@ -9,7 +9,8 @@ This is an IntelliJ IDEA plugin project aimed at generating a MyBatis condition 
 
 ## Feature Demonstration
 
-![Feature Demonstration](https://github.com/tanshion/mybatis-condition/blob/main/doc/1.gif?raw=true)
+![2](https://github.com/user-attachments/assets/880163cf-8331-4fcb-b2ed-9fd33a1332a8)
+
 
 
 ## 项目简介
@@ -23,4 +24,4 @@ This is an IntelliJ IDEA plugin project aimed at generating a MyBatis condition 
 
 ## 功能展示
 
-![功能展示](https://github.com/tanshion/mybatis-condition/blob/main/doc/1.gif?raw=true)
+![2](https://github.com/user-attachments/assets/880163cf-8331-4fcb-b2ed-9fd33a1332a8)
